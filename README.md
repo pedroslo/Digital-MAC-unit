@@ -1,4 +1,4 @@
-# Digital-MAC-unit
+# Digital MAC Units - VHDL
 This repository contains conventional Digital MAC units, implemented in VHDL. Each folder contais all the files needed to implement the MAC units ( adders, multipliers, registers).
 All circuits are generic, meaning that they can be simulated for any number of bits.
 
