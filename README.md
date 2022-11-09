@@ -19,7 +19,8 @@ An RTL view of the circuit, considering a 4-bit MAC unit (4 bits inputs, 8 bits 
 
 ![picture](https://i.imgur.com/UB2niSU.png)
 
-The MAC unit simulation can also be seen below. It was carried out in Intel Quartus + ModelSim
+The MAC unit simulation can also be seen below. It was carried out in Intel Quartus + ModelSim:
+
 ![picture](https://i.imgur.com/1uPsOxD.png)
 
 # MAC unit: Booth Multiplier + Carry lookahead adder
