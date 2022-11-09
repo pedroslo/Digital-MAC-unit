@@ -15,7 +15,7 @@ The **components** used in this project, which can be found in the folders, are:
 * Register (Generic implementation);
 
 ## Simulation
-An RTL view of the circuit, considering a 4-bit MAC unit (4 bits inputs, 8 bits adder/register) is shown below
+A RTL view of the circuit, considering a 4-bit MAC unit (4 bits inputs, 8 bits adder/register) is shown below
 
 ![picture](https://i.imgur.com/UB2niSU.png)
 
@@ -34,7 +34,7 @@ The **components** used in this project, which can be found in the folders, are:
 * Register (Generic implementation);
 
 ## Simulation
-An RTL view of the circuit, considering a 2-bit MAC unit (2 bits inputs, 4 bits adder/register) is shown below
+A RTL view of the circuit, considering a 2-bit MAC unit (2 bits inputs, 4 bits adder/register) is shown below
 
 ![picture](https://i.imgur.com/HwX1Hpu.png)
 
