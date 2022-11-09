@@ -3,6 +3,8 @@ This repository contains conventional Digital MAC units, implemented in VHDL. Ea
 All circuits are generic, meaning that they can be simulated for any number of bits.
 
 # MAC unit: Array Multiplier + Ripple Carry Adder
+
+## Implementation
 The first MAC unit consists of an array multiplier and a ripple carry adder (RCA), which are one of the most simple designs for those circuits. This MAC unit consumes less power and area, however, due to its simplicity, it performs poorly and cannot multiply negative numbers. Both sub-circuits can be designed by using half-adders and full-adders and some AND gates, for partial product generation.
 
 The **components** used in this project, which can be found in the folders, are:
@@ -11,10 +13,14 @@ The **components** used in this project, which can be found in the folders, are:
 * Ripple Carry Adder (Generic implementation);
 * Array Multiplier (Generic implementation); 
 * Register (Generic implementation);
-
+* 
+## Simulation
 An RTL view of the circuit, considering a 4-bit MAC unit (4 bits inputs, 8 bits adder/register) is shown below
 
 ![picture](https://i.imgur.com/UB2niSU.png)
+
+The MAC unit simulation can also be seen below. It was carried out in Intel Quartus + ModelSim
+![picture](https://i.imgur.com/1uPsOxD.png)
 
 # MAC unit: Booth Multiplier + Carry lookahead adder
 
