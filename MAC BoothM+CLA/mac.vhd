@@ -2,7 +2,7 @@
   -- Author: Pedro S. Locatelli
   -- Institution: Federal University of Minas Gerais
   -- Name of the project: MAC unit: Booth multiplier + carry lookahead adder
-  -- URL of the project:
+  -- URL of the project: https://github.com/pedroslo/Digital-MAC-unit
   ----------------------------------------------------------------------------
   -- project_top: mac --Current file: mac
   ----------------------------------------------------------------------------
