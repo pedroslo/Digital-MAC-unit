@@ -1,5 +1,5 @@
 # Digital MAC Units - VHDL
-This repository contains conventional Digital MAC units, implemented in VHDL. Each folder contais all the files needed to implement the MAC units ( adders, multipliers, registers).
+This repository contains conventional Digital Multiply-accumulate (MAC) units, implemented in VHDL. Each folder contais all the files needed to implement the MAC units ( adders, multipliers, registers).
 All circuits are generic, meaning that they can be simulated for any number of bits.
 
 # MAC unit: Array Multiplier + Ripple Carry Adder
@@ -13,6 +13,10 @@ The **components** used in this project, which can be found in the folders, are:
 * Ripple Carry Adder (Generic implementation);
 * Array Multiplier (Generic implementation); 
 * Register (Generic implementation);
+
+Below is shown a Block diagram of the proposed MAC unit:
+
+![picture](https://i.imgur.com/uGIzYOX.png)
 
 ## Simulation
 A RTL view of the circuit, considering a 4-bit MAC unit (4 bits inputs, 8 bits adder/register) is shown below
@@ -32,6 +36,10 @@ The **components** used in this project, which can be found in the folders, are:
 * Carry Lookahead Adder (Generic implementation);
 * Booth Multiplier (Generic implementation); 
 * Register (Generic implementation);
+
+Below is shown a Block diagram of the proposed MAC unit:
+
+![picture](https://i.imgur.com/0oPnDmK.png)
 
 ## Simulation
 A RTL view of the circuit, considering a 2-bit MAC unit (2 bits inputs, 4 bits adder/register) is shown below
