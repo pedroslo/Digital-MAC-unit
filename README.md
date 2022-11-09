@@ -12,3 +12,6 @@ An RTL view of the circuit, considering a 4-bit MAC unit is shown below
 # MAC unit: Booth Multiplier + Carry lookahead adder
 
 The second MAC unit designed is a bit more complex and optimized in terms of performance, containing a Booth multiplier and a carry lookahead adder (CLA)
+
+
+![picture](https://i.imgur.com/HwX1Hpu.png)
