@@ -7,6 +7,7 @@ The first MAC unit consists of an array multiplier and a ripple carry adder (RCA
 
 An RTL view of the circuit, considering a 4-bit MAC unit is shown below
 
+![picture](https://i.imgur.com/UB2niSU.png)
 
 # MAC unit: Booth Multiplier + Carry lookahead adder
 
