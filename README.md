@@ -19,7 +19,7 @@ Below is shown a Block diagram of the proposed MAC unit:
 ![picture](https://i.imgur.com/uGIzYOX.png)
 
 ## Simulation
-A RTL view of the circuit, considering a 4-bit MAC unit (4 bits inputs, 8 bits adder/register) is shown below
+The MAC unit was simulated with Intel Quartus. A RTL view of the circuit, considering a 4-bit MAC unit (4 bits inputs, 8 bits adder/register) is shown below:
 
 ![picture](https://i.imgur.com/UB2niSU.png)
 
@@ -42,7 +42,7 @@ Below is shown a Block diagram of the proposed MAC unit:
 ![picture](https://i.imgur.com/0oPnDmK.png)
 
 ## Simulation
-A RTL view of the circuit, considering a 2-bit MAC unit (2 bits inputs, 4 bits adder/register) is shown below
+The MAC unit was simulated with Intel Quartus. A RTL view of the circuit, considering a 2-bit MAC unit (2 bits inputs, 4 bits adder/register) is shown below:
 
 ![picture](https://i.imgur.com/HwX1Hpu.png)
 
